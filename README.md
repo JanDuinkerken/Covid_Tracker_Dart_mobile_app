@@ -8,5 +8,5 @@ docker-compose up database
 ```
 and
 ```bash
-docker-compose up graohql-engine
+docker-compose up graphql-engine
 ```
