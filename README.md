@@ -1,4 +1,4 @@
-# Dart_mobile_app
+# Flutter + Dart COVID Tracker
  Mobile app created with Flutter + Dart and used for visualizing and working with data probided by a REST API.
  This app was developed as a practical for the IPM subject.
 
