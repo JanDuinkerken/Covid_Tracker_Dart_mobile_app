@@ -10,3 +10,5 @@ and
 ```bash
 docker-compose up graphql-engine
 ```
+
+Developed by Diego García López, Miguel Sánchez Pérez and me (Jan Duinkerken Rodríguez)
